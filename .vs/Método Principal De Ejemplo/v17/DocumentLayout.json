@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Eliminaci\u00F3n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Eliminaci\u00F3n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Acceso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Acceso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Acceso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Acceso.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\B\u00FAsqueda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:B\u00FAsqueda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Busqueda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Busqueda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Archivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Archivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089E6A93-84A4-4851-A977-DC826CDE8078}|M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.vcxproj|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{089E6A93-84A4-4851-A977-DC826CDE8078}|M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.vcxproj|solutionrelative:M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Registro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Registro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Insersi\u00F3n.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Insersi\u00F3n.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Eliminacion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Eliminacion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Insersio\u00F3n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|Elementos de la soluci\u00F3n{A1C39CD6-2F41-4446-B501-0B12B203B7CD}|solutionrelative:Insersio\u00F3n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eliminacion.h",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Eliminacion.h",
+              "RelativeDocumentMoniker": "Eliminacion.h",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Eliminacion.h",
+              "RelativeToolTip": "Eliminacion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T18:14:52.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Archivo.h",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Archivo.h",
+              "RelativeDocumentMoniker": "Archivo.h",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Archivo.h",
+              "RelativeToolTip": "Archivo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T17:35:18.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Busqueda.h",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Busqueda.h",
+              "RelativeDocumentMoniker": "Busqueda.h",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Busqueda.h",
+              "RelativeToolTip": "Busqueda.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T05:15:02.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Acceso.h",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Acceso.h",
+              "RelativeDocumentMoniker": "Acceso.h",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Acceso.h",
+              "RelativeToolTip": "Acceso.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-22T05:12:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acceso.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Acceso.cpp",
+              "RelativeDocumentMoniker": "Acceso.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Acceso.cpp",
+              "RelativeToolTip": "Acceso.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T04:49:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eliminaci\u00F3n.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Eliminaci\u00F3n.cpp",
+              "RelativeDocumentMoniker": "Eliminaci\u00F3n.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Eliminaci\u00F3n.cpp",
+              "RelativeToolTip": "Eliminaci\u00F3n.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:45:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B\u00FAsqueda.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\B\u00FAsqueda.cpp",
+              "RelativeDocumentMoniker": "B\u00FAsqueda.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\B\u00FAsqueda.cpp",
+              "RelativeToolTip": "B\u00FAsqueda.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:40:30.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registro.h",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Registro.h",
+              "RelativeDocumentMoniker": "Registro.h",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Registro.h",
+              "RelativeToolTip": "Registro.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T18:38:32.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "M\u00E9todo Principal De Ejemplo.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.cpp",
+              "RelativeDocumentMoniker": "M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.cpp",
+              "RelativeToolTip": "M\u00E9todo Principal De Ejemplo\\M\u00E9todo Principal De Ejemplo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:37:38.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Insersi\u00F3n.h",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Insersi\u00F3n.h",
+              "RelativeDocumentMoniker": "Insersi\u00F3n.h",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Insersi\u00F3n.h",
+              "RelativeToolTip": "Insersi\u00F3n.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T18:39:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Insersio\u00F3n.cpp",
+              "DocumentMoniker": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Insersio\u00F3n.cpp",
+              "RelativeDocumentMoniker": "Insersio\u00F3n.cpp",
+              "ToolTip": "C:\\Users\\pasev\\source\\repos\\M\u00E9todo Principal De Ejemplo\\Insersio\u00F3n.cpp",
+              "RelativeToolTip": "Insersio\u00F3n.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:39:55.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
