@@ -1,2 +1,2 @@
 ﻿  Método Principal De Ejemplo.cpp
-C:\Users\pasev\source\repos\Método Principal De Ejemplo\Método Principal De Ejemplo\Método Principal De Ejemplo.cpp(5,10): error C1083: No se puede abrir el archivo incluir: 'registro.h': No such file or directory
+C:\Users\pasev\Desktop\Tarea en pareja\Registro-de-empleados\Método Principal De Ejemplo\Método Principal De Ejemplo.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'registro.h': No such file or directory

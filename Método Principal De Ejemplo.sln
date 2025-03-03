@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 		Eliminación.cpp = Eliminación.cpp
 		Insersioón.cpp = Insersioón.cpp
 		Insersión.h = Insersión.h
+		Modificación..h = Modificación..h
 		Registro.h = Registro.h
 	EndProjectSection
 EndProject
