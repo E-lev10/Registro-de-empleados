@@ -1,5 +1,6 @@
 #include "insercion.h"
-#include <fstream>
+#include <fstream> //Es una clase de la biblioteca estándar de C++ que se utiliza para realizar operaciones de entrada y salida de archivos.
+
 
 using namespace std;
 
